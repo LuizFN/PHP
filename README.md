@@ -1,2 +1,3 @@
-# php
- alguns exemplos em php
+# PHP
+
+Alguns exemplos em PHP
